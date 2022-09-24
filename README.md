@@ -1,9 +1,11 @@
 <html>
-  <head>
-  Jacob Doezema
-  </head>
+ 
+<head>
+  <h1>Jacob Doezema</h1>
+</head> 
+  
 <body>
-<h1>Line 2</h1>
-<p>Line 3</p>
+  <h2>Line 2</h2>
+  <p>Line 3</p>
 </body>
 </html>
