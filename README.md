@@ -1,5 +1,3 @@
-# doezemajacob.github.io
-<!DOCTYPE html>
 <html>
 <head>
 <title>This document title</title>
