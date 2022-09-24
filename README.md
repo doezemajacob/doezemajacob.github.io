@@ -1,9 +1,9 @@
 <html>
 <head>
-<title>This document title</title>
+<title>Line 1</title>
 </head>
 <body>
-<h1>This is a heading</h1>
-<p>Document content goes here.....</p>
+<h1>Line 2</h1>
+<p>Line 3</p>
 </body>
 </html>
