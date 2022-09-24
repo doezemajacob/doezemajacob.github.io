@@ -1,8 +1,8 @@
 <html>
  
-<head>
-  <h1>Jacob Doezema</h1>
-</head> 
+<body>
+  <h1>Resume Website: Jacob D. Doezema</h1>
+</body> 
   
 <body>
   <h2>Line 2</h2>
